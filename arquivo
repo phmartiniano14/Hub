@@ -1,0 +1,164 @@
+  #barranav {
+            display: none;
+        }
+        
+        header {
+            position: fixed;
+            width: 100%;
+            height: 80px;
+            top: 0;
+            background-color: rgba(0, 0, 0, 0.8);
+            z-index: 1;
+            box-shadoW: 0px 0px 0px 1px black;
+        }
+
+
+        /*  label.logo {
+            color: white;
+            font-size: 25px;
+            line-height: 80px;
+            padding: 0 100px;
+            font-weight: bold;
+        }
+        
+        .menunavegacao {
+            position: fixed;
+            width: 46%;
+            left: 65%;
+            top: 23px;
+        }
+        
+        .menunavegacao a {
+            text-decoration: none;
+            font-weight: arial;
+            color: white;
+        }
+        
+        .menunavegacao a:hover {
+            color: rgb(49, 192, 202);
+            transition: 0.4s;
+        }
+        
+        .menunavegacao a:hover:before {
+            width: 100%;
+        }
+        
+        .menunavegacao a:before {
+            content: attr(data-text);
+            border-bottom: 3px solid rgb(49, 192, 202);
+            white-space: nowrap;
+            color: rgba(255, 255, 255, 0.0);
+            overflow: hidden;
+            width: 0%;
+            padding: 10px 0;
+            transition: 0.4s;
+            position: absolute;
+            left: 0;
+            margin-top: -10px;
+        }
+        
+        .menunavegacao ul {
+            position: relative;
+            width: 100%;
+        }
+        
+        .menunavegacao ul li {
+            position: relative;
+            float: left;
+            list-style: none;
+            text-align: center;
+            padding: 10px;
+            height: 36px;
+            width: auto;
+        }
+        
+        .checkbtn {
+            font-size: 30px;
+            color: white;
+            float: right;
+            line-height: 80px;
+            margin-right: 40px;
+            cursor: pointer;
+            display: none;
+        }*/
+
+         <!-- <header>
+
+        <label class="logo">Ubuntu Last Hub</label>
+
+        <div class="menunavegacao">
+
+            <input type="checkbox" id="barranav">
+            <label for="barranav" class="checkbtn">
+                    <i class="fas fa-bars"></i>
+                </label>
+
+
+            <!--<img src="_imagens/_logo.jpg" id="logoi" >-->
+
+
+
+            <nav>
+
+                <ul>
+                    <li><a href="#sobre" style="transition: all .25s linear;" data-text="SOBRE">SOBRE</a></li>
+                    <!-- <li><a href="playlis" data-text="SERVICOS">SERVIÇOS</a></li>-->
+                    <li><a href="#planos" data-text="PLANOS">PLANOS</a></li>
+                    <li><a href="#edu" data-text="CONTATO">UBUNTU.EDU</a></li>
+                    <li><a href="#orcamento" data-text="CONTATO">CONTATO</a></li>
+
+                    <!--  <li><a href="#localizacao" data-text="LOCALIZAÇÃO">LOCALIZAÇÃO</a></li>-
+                </ul>
+        </div>
+        </nav>
+
+
+
+    </header>--> 
+
+
+
+
+
+
+
+
+     <div id="hub">
+            <section class="full-width formated-section">
+
+                <h2 class="text-center">Uma casa para sua empresa</h2><br>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                            <img src="_img/comemoração.jpg" alt="Sucursal" class="img-responsive img-rounded">
+                            <h3 class="text-center">Um lar para sua empresa</h3>
+                            <p class="text-center">
+                                Sua mesa dedicada vem com sua própria cadeira e armário com chave.
+                            </p>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                            <img src="_img/aniversario.jpg" alt="Sucursal" class="img-responsive img-rounded">
+                            <h3 class="text-center">Uma sensação de permanência</h3>
+                            <p class="text-center">
+                                Você não precisa carregar seus pertences. Deixe-os em sua mesa durante o dia e a noite.
+                            </p>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                            <img src="_img/confra.jpg" alt="Sucursal" class="img-responsive img-rounded">
+                            <h3 class="text-center">Itens essenciais para escritórios</h3>
+                            <p class="text-center">
+                                Temos todos os itens essenciais, desde salas de reunião reserváveis até Wi-Fi de alta velocidade, serviços de impressão e equipamentos de áudio e vídeo.
+                            </p>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                            <img src="_img/confra.jpg" alt="Sucursal" class="img-responsive img-rounded">
+                            <h3 class="text-center">Networking e eventos</h3>
+                            <p class="text-center">
+                                Interaja e colabore em eventos presenciais e na Rede de Membros da Ubuntu last hub.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+        </div>
